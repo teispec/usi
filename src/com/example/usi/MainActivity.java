@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 				.setUserAgentString(
 						"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7");
 
-		webview.loadUrl("http://pigg.ameba.jp/core/main");
+		//webview.loadUrl("http://pigg.ameba.jp/core/main");
 	}
 
 	@Override
